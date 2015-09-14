@@ -13,6 +13,6 @@
   "repository": "felixgirault/pure-render-decorator",
   "main": "index.js",
   "dependencies": {
-    "react-addons-shallow-compare": "^0.14.0-beta1"
+    "react-addons-shallow-compare": "^0.14.0-rc1"
   }
 }
